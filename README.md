@@ -23,5 +23,9 @@ https://github.com/GodFather850/Tlauncher-for-linux/archive/refs/heads/main.zip
     
     sudo jar.sh
 
+OR
+
+    sudo java -jar tlauncher.jar
 ---
 
+Created By #GodFather
