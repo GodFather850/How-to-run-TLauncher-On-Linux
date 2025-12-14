@@ -29,6 +29,5 @@ Download
     Click And Move To apps And click TLauncher App
 
 ---
-# (Warmly enjoy the game)
-
-# Created By #GodFather
+# Created By GodFather
+# (Warmly enjoy the game <3)
