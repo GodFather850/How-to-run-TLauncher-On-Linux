@@ -7,7 +7,8 @@ This post is for those who had problems installing T-Launcher.
 
 # Setup 1
 Download 
-https://github.com/GodFather850/Tlauncher-for-linux/archive/refs/heads/main.zip
+
+(https://tlauncher.org/)
 
 
 ---
@@ -15,17 +16,14 @@ https://github.com/GodFather850/Tlauncher-for-linux/archive/refs/heads/main.zip
 
 #Setup 2 : Permisions -----> cd <foldername jarfile>
 
-    chmod +x tlauncher.jar && chmod +x jar.sh
+    chmod +x tlauncher.deb && sudo apt install ./tlauncher-linux-installer.deb
 
 ---
 
 #Setup 3 : How To Play?
     
-    sudo jar.sh
+    Click And Move To apps And click TLauncher App
 
-OR
-
-    sudo java -jar tlauncher.jar
 ---
 
 Created By #GodFather
